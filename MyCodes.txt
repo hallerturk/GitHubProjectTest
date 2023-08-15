@@ -5,4 +5,10 @@ these are v2
 these are v3
 new version v4
 some change by github
+
+confilit appear here
+<<<<<<< HEAD
 new change
+=======
+github change
+>>>>>>> 417cd42a27efc091896a198d66c9c476cbed95fc
